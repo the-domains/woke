@@ -4,7 +4,7 @@
         <description><![CDATA[Woké: You create, We wok]]></description>
         <link>https://thegrid.ai/woke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 16:29:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/woke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEST a]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[THIS IS MY TITLE]]></title>
-            <description><![CDATA[<article><h1>THIS IS MY TITLE</h1><p>Test </p></article>]]></description>
+            <description><![CDATA[<article><h1>THIS IS MY TITLE</h1><p>Test</p></article>]]></description>
             <link>https://thegrid.ai/woke/this-is-my-title/index.html</link>
             <guid isPermaLink="false">07b2e3bc-bad3-4c16-a516-65e78ba9e69f</guid>
-            <pubDate>Tue, 15 Mar 2016 16:19:16 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 16:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
