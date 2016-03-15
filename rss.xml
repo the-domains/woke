@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Woké: You create, We wok]]></title>
         <description><![CDATA[Woké: You create, We wok]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/woke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:19:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 16:20:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/woke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THIS IS MY TITLE</p>]]></description>
+            <link>https://thegrid.ai/woke/this-is-my-title/index.html</link>
+            <guid isPermaLink="false">7370bc65-c947-4ed6-b8c6-478c456bb66f</guid>
+            <pubDate>Tue, 15 Mar 2016 16:20:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THIS IS MY TITLE]]></title>
             <description><![CDATA[<article><h1>THIS IS MY TITLE</h1><p>Test </p></article>]]></description>
-            <link>undefinedthis-is-my-title/index.html</link>
+            <link>https://thegrid.ai/woke/this-is-my-title/index.html</link>
             <guid isPermaLink="false">07b2e3bc-bad3-4c16-a516-65e78ba9e69f</guid>
             <pubDate>Tue, 15 Mar 2016 16:19:16 GMT</pubDate>
         </item>
