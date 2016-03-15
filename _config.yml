@@ -1,6 +1,6 @@
 name: woké
 favicon: null
-layout_spectrum: 0.97072
+layout_spectrum: 0.20065
 typography_spectrum: 0.13557
 title: 'Woké: You create, We wok'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b1b52d'
     - '#5a394a'
     - '#8d767a'
-  brandStrength: 0.875
+  brandStrength: 0.8125
   lightness: 0.9995235695969313
   saturation: 0.3037204269785434
   rhythmicContrast: 0.988655858905986
