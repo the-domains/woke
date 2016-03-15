@@ -4,8 +4,15 @@
         <description><![CDATA[Woké: You create, We wok]]></description>
         <link>https://thegrid.ai/woke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 16:28:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/woke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TEST a]]></title>
+            <description><![CDATA[<article><h1>TEST a</h1><h2>test b</h2><p>test c</p></article>]]></description>
+            <link>https://thegrid.ai/woke/test-a/index.html</link>
+            <guid isPermaLink="false">abfcbc62-22d6-4543-b988-8532a03199b7</guid>
+            <pubDate>Tue, 15 Mar 2016 16:28:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THIS IS MY TITLE]]></title>
             <description><![CDATA[<article><h1>THIS IS MY TITLE</h1><p>Test </p></article>]]></description>
