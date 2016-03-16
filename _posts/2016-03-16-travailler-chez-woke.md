@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Woké recherche un étudiant pour un job en tant que traducteur français-néerlandais.
-datePublished: '2016-03-16T14:10:03.611Z'
-dateModified: '2016-03-16T14:09:55.375Z'
+datePublished: '2016-03-16T14:19:49.042Z'
+dateModified: '2016-03-16T14:10:08.725Z'
 title: Bienvenue chez Woké
 author: []
 sourcePath: _posts/2016-03-16-travailler-chez-woke.md
