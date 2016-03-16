@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Woké recherche un étudiant pour un job en tant que traducteur français-néerlandais.
-datePublished: '2016-03-16T14:02:01.592Z'
-dateModified: '2016-03-16T14:01:45.221Z'
+datePublished: '2016-03-16T14:10:03.611Z'
+dateModified: '2016-03-16T14:09:55.375Z'
 title: Bienvenue chez Woké
 author: []
 sourcePath: _posts/2016-03-16-travailler-chez-woke.md
@@ -22,10 +22,39 @@ url: travailler-chez-woke/index.html
 _type: Article
 
 ---
-undefined
-
 # Bienvenue chez Woké
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e56c6d0a-2ffc-4805-be06-2d13b4e0fb4c.jpg)
+
+## À propos de Woké
+
+## Let's Wok!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02403c33-5995-4c69-9508-401414ea9caa.jpg)
+
+## Contact
+
+**Horaires:**
+
+Lundi - jeudi: 11:30 - 22:00 
+
+Vendredi - samedi: 
+11:30 - 23:00 
+
+Dimanche: 
+11:30 - 22:00
+
+**Adresse:**
+
+Rue Charlemagne, 20
+
+1348 Louvain-La-Neuve
+
+**Nous contacter:**
+
+arthur@woke.be
+
+**Suivez nous sur:**
+
+Facebook - Instagram 
 
 ## Travailler chez Woké
 
