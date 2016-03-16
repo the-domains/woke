@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Woké recherche un étudiant pour un job en tant que traducteur français-néerlandais.
-datePublished: '2016-03-16T13:44:02.533Z'
-dateModified: '2016-03-16T13:44:00.154Z'
-title: Travailler chez Woké
+datePublished: '2016-03-16T14:02:01.592Z'
+dateModified: '2016-03-16T14:01:45.221Z'
+title: Bienvenue chez Woké
 author: []
 sourcePath: _posts/2016-03-16-travailler-chez-woke.md
 published: true
@@ -22,14 +22,19 @@ url: travailler-chez-woke/index.html
 _type: Article
 
 ---
-# Travailler chez Woké
+undefined
+
+# Bienvenue chez Woké
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e56c6d0a-2ffc-4805-be06-2d13b4e0fb4c.jpg)
+
+## Travailler chez Woké
 
 Woké recherche un étudiant pour un job en tant que traducteur français-néerlandais.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74ac71a2-e9d4-4044-9fa8-ae05b884acb3.jpg)
 
 Pour travailler chez Woké, c'est par [ici][0].
 
-# Espace Franchisés
+## Espace Franchisés
 
 Rejoindre Quick, c'est bénéficier du support d'une structure professionnelle, dotée de moyens logistiques et humains importants. Après une formation approfondie abordant tous les aspects opérationnels du métier, les équipes de Quick aident les franchisés à concrétiser leur projet, en leur offrant un accompagnement sur mesure. Appui au quotidien d'un consultant franchise, assistance dans tous les domaines (commercial, informatique, marketing, communication...) : avec Quick, les franchisés ont les moyens de leur développement !
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cda1df84-2bc7-42fc-96b9-e59031c2882a.png)
