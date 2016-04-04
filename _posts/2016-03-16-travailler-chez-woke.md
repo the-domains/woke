@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Woké recherche un étudiant pour un job en tant que traducteur français-néerlandais.
-datePublished: '2016-03-16T14:19:49.042Z'
-dateModified: '2016-03-16T14:10:08.725Z'
+datePublished: '2016-04-04T15:21:28.786Z'
+dateModified: '2016-04-04T15:21:28.013Z'
 title: Bienvenue chez Woké
 author: []
 sourcePath: _posts/2016-03-16-travailler-chez-woke.md
@@ -27,7 +27,9 @@ _type: Article
 
 ## À propos de Woké
 
-## Let's Wok!
+concept healthy fastfood blablabla
+
+## Prêt? Woké!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02403c33-5995-4c69-9508-401414ea9caa.jpg)
 
 ## Contact
