@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Woké: You create, We wok]]></title>
         <description><![CDATA[Woké: You create, We wok]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/woke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 09:04:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 09:10:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/woke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You create, We wok!]]></title>
+            <description><![CDATA[<article><h1>You create, We wok!</h1><p>Grâce à nos écrans tactiles, tu choisi:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ed8ed2bbd1b1ae7a43510acad44edeb3189b8e8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/woke/you-create-we-wok/index.html</link>
+            <guid isPermaLink="false">452d216d-40da-4f10-b128-7fc1545aea93</guid>
+            <pubDate>Tue, 12 Apr 2016 09:09:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prêt? Woké!]]></title>
             <description><![CDATA[<article><h1>Prêt? Woké!</h1><p>La mission de Woké est de faciliter l'accès à une nourriture saine au travers d'une expérience gastronomique rapide, saine, simple et créative. Woké n'est pas seulement un restaurant mais est aussi un endroit où vous pouvez vivre une réelme expérience en créant votre repas via un système interactif de personnalisation de plats sur un écran tactile. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be6e835e-aea0-408b-9a64-73da667b4877.jpg"></article>]]></description>
-            <link>undefinedpret-woke/index.html</link>
+            <link>https://thegrid.ai/woke/pret-woke/index.html</link>
             <guid isPermaLink="false">6e229735-b974-4725-b1cc-dc08a670fc92</guid>
             <pubDate>Tue, 12 Apr 2016 09:04:39 GMT</pubDate>
         </item>
